@@ -68,17 +68,17 @@ While it is stable and playable, **this modpack isn't really intended to be used
 
 <details>
 <summary>Client Enhancements</summary>
-I recommend using the [Additive](https://modrinth.com/modpack/additive/) modpack, which is an open source Optifine alternative. I'm also working on a Client Enhancements modpack that compliments Additive by adding a few extra features to the client.
+I recommend using the <a href="https://modrinth.com/modpack/additive/">Additive</a> modpack, which is an open source Optifine alternative. I'm also working on a Client Enhancements modpack that compliments Additive by adding a few extra features to the client.
 </details>
 
 <details>
 <summary>Server Utilities</summary>
-It's always good to optimize your server's performance, but if you're a server admin, you might also want some extra tools to help manage your world. If you want both, check out my [Quilt Server Utilities](https://modrinth.com/modpack/quilt-server-utilities) modpack.
+It's always good to optimize your server's performance, but if you're a server admin, you might also want some extra tools to help manage your world. If you want both, check out my <a href="https://modrinth.com/modpack/quilt-server-utilities">Quilt Server Utilities</a> modpack.
 </details>
 
 <details>
 <summary>World Generation</summary>
 What good is adventuring if there aren't any new structures or biomes to explore? With so many different options out there, I left them out of the modpack so that it can be compatible with whatever you decide to put together.
 
-I'm currently putting together a companion modpack for worldgen, but in the meantime, I recommend using [Tectonic](https://modrinth.com/datapack/tectonic) and the [Stardust Labs](https://modrinth.com/user/Stardust) projects for world generation, and [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns), [Hopo's](https://modrinth.com/user/Ohponopono) structure series, and [YUNGNICKYOUNG's](https://modrinth.com/user/YUNGNICKYOUNG) various overhauls for structures.
+I'm currently putting together a companion modpack for worldgen, but in the meantime, I recommend using <a href="https://modrinth.com/datapack/tectonic">Tectonic</a> and the <a href="https://modrinth.com/user/Stardust">Stardust Labs</a> projects for world generation, and <a href="https://modrinth.com/datapack/dungeons-and-taverns">Dungeons and Taverns</a>, <a href="https://modrinth.com/user/Ohponopono">Hopo's</a> structure series, and <a href="https://modrinth.com/user/YUNGNICKYOUNG">YUNGNICKYOUNG's</a> various overhauls for structures.
 </details>
