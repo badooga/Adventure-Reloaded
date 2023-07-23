@@ -35,6 +35,11 @@ hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "979685f5b31e996047859481f2f09de6c938a042267a70bd2aeae9a783e3683e"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/echo-chest.pw.toml"
 hash = "6640a8327805a089b6108be237efe6a4a73e595bff086d30192ae9c04be2c96d"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "772e44b75405916c14affc33c9e8ff3955d131750ecaaa3016a0b55fa6786154"
 metafile = true
 
 [[files]]
@@ -172,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/maddies-building-tweaks.pw.toml"
 hash = "6c55a374b136bcf07e7395516dfe3c3ab9892436cee22843b40e5812121a17be"
+metafile = true
+
+[[files]]
+file = "mods/mob-boss-bars.pw.toml"
+hash = "e0301c1b42186f67119c5355b801a9d68fb5b0e3cb8d3a1808168fa018374c23"
 metafile = true
 
 [[files]]
