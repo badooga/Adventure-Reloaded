@@ -15,6 +15,21 @@ hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "968b182231cf82c2dd35b50ae9681256cc7d066440e15b4e88df70700074a624"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "9bbc09c30566fd1cf875eae83f9a785d9207087c537f7f46c6a2aae39d7b1415"
 metafile = true
@@ -45,6 +60,11 @@ hash = "d9e5d31a83f9cd880fadcff2cdbfcff436cc3ba7fb5af168a6170b7d8c6dce8c"
 metafile = true
 
 [[files]]
+file = "mods/echo-chest.pw.toml"
+hash = "6640a8327805a089b6108be237efe6a4a73e595bff086d30192ae9c04be2c96d"
+metafile = true
+
+[[files]]
 file = "mods/end-gateway-warps.pw.toml"
 hash = "13b43ff153d700a0c0aa19fcc4170cbf80cbfff462f4581090837e9424ca9904"
 metafile = true
@@ -52,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/endermite-expansion.pw.toml"
 hash = "b812cdcb4a77c0516535723b28da667739d4a152b60da8b5ff9de71ead882e36"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
 
 [[files]]
@@ -72,6 +97,26 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "7143dc3137f2718a7b02346c55d47ac4a66e1e21690f571e6ca3c688133d94dd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "b3e1f21d3fae90c2e1238e7a354a9e2d58d55ae510de84b398afa7c94d1059aa"
+metafile = true
+
+[[files]]
+file = "mods/netherite-nuggets.pw.toml"
+hash = "dad9ce57a22f82cbae682276d52689291ff11ae08f2d495f08f3ffe5ae6b0606"
 metafile = true
 
 [[files]]
@@ -107,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
 metafile = true
 
 [[files]]
