@@ -1,0 +1,13 @@
+name = "AdventureTweaks"
+author = "badooga"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6abb38fd71dc8c958d99b7c1abd2b3d8d3689ed0a34e76ad344881e1c749f923"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.4"
