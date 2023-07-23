@@ -15,6 +15,11 @@ hash = "6684ec618bfce7b4032f1f2350a78e4368eb7b299ad7e536dc50d4dffad50ab4"
 metafile = true
 
 [[files]]
+file = "mods/attraction.pw.toml"
+hash = "0721d3b7d886c15dcd592e88eb5299218dac2a2e378777d51cf0e45f5447f83e"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "10dbdd22eaa6a7dd9f072a05137d1dfb2d1948ac7be3bdc1bcfcf9eec6527f81"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "71413590712a065ca605e5c689c49f79eed427434dc58a0593b9b1e1948085e8"
 metafile = true
 
 [[files]]
@@ -130,6 +140,11 @@ hash = "38d76506afc798ac39e348f0adabcb6f4e0f82631f37ac049adffa5b9552deb0"
 metafile = true
 
 [[files]]
+file = "mods/grass-overhaul.pw.toml"
+hash = "759c65a56e6c47d38193f0ce51eb38f291f16f8d32745b782123b3b03b9fcaf5"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "7143dc3137f2718a7b02346c55d47ac4a66e1e21690f571e6ca3c688133d94dd"
 metafile = true
@@ -147,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
+metafile = true
+
+[[files]]
+file = "mods/maddies-building-tweaks.pw.toml"
+hash = "6c55a374b136bcf07e7395516dfe3c3ab9892436cee22843b40e5812121a17be"
 metafile = true
 
 [[files]]
@@ -197,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/stackables.pw.toml"
 hash = "976cea9dda0af97d5860653e22104c5a84f9cd2579223c029939d74ac45a5813"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "a0a63344406ba71a8ac37f1b27fd1425914af104bdf4eda6d7c8d2b82250a555"
 metafile = true
 
 [[files]]
