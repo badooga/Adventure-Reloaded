@@ -1,0 +1,13 @@
+name = "Upgraded Mobs"
+filename = "upgraded-mobs-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iaFWBDP2/versions/B27Jdn1h/upgraded-mobs-1.1.0.jar"
+hash-format = "sha1"
+hash = "dfc8e8b0d10af23b1a18e3f456cc3aa184d4979b"
+
+[update]
+[update.modrinth]
+mod-id = "iaFWBDP2"
+version = "B27Jdn1h"
