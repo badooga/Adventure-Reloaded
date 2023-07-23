@@ -1,0 +1,13 @@
+name = "Atlas Combat"
+filename = "Atlas Combat 1.20 1.1.8 Beta 7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRYhslBa/versions/NcRmhAI4/Atlas%20Combat%201.20%201.1.8%20Beta%207.jar"
+hash-format = "sha1"
+hash = "b18f49feca132bfe31b4ba6ab0697acedfa8ad6d"
+
+[update]
+[update.modrinth]
+mod-id = "kRYhslBa"
+version = "NcRmhAI4"
