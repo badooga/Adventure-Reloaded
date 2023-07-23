@@ -10,6 +10,11 @@ hash = "6684ec618bfce7b4032f1f2350a78e4368eb7b299ad7e536dc50d4dffad50ab4"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "9bbc09c30566fd1cf875eae83f9a785d9207087c537f7f46c6a2aae39d7b1415"
 metafile = true
@@ -25,6 +30,21 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "10dbdd22eaa6a7dd9f072a05137d1dfb2d1948ac7be3bdc1bcfcf9eec6527f81"
+metafile = true
+
+[[files]]
+file = "mods/dark-waters.pw.toml"
+hash = "643461c51cd64da8abe0dfadf2064b1caa1a03ada0f3dfe27936c15f11f37120"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "d9e5d31a83f9cd880fadcff2cdbfcff436cc3ba7fb5af168a6170b7d8c6dce8c"
+metafile = true
+
+[[files]]
 file = "mods/end-gateway-warps.pw.toml"
 hash = "13b43ff153d700a0c0aa19fcc4170cbf80cbfff462f4581090837e9424ca9904"
 metafile = true
@@ -35,6 +55,21 @@ hash = "b812cdcb4a77c0516535723b28da667739d4a152b60da8b5ff9de71ead882e36"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "e995f14581cfa3e6148fecb00dea9a731533ba24a011e341f746e39c5c560a67"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
@@ -42,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1ed3355090b2098ac551b98b98e778c694f2b2bfd0166b891ff62a09d108762"
 metafile = true
 
 [[files]]
@@ -60,6 +105,21 @@ hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
+metafile = true
+
+[[files]]
 file = "mods/wither-skeleton-archers-in-fortresses.pw.toml"
 hash = "a2788bca3d189dd9b0591b9844240dd79805a7274c3ec44c4a66bbc1d909a433"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "27fbebf7f801947edf142ab560dfa66212a26b663402f148e211b935efcc803e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
 metafile = true
