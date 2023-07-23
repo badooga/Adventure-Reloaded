@@ -155,6 +155,11 @@ hash = "d26baf8a8f8e338cbf7f0a0d3179de1920148c546b592b1193dafb30ba1480ad"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "c64590151ce7a968e093058924fcb60e3cbfd7aa3934e50409523e3f95375316"
+metafile = true
+
+[[files]]
 file = "mods/illagers-wear-armor-fabric.pw.toml"
 hash = "eca1a3906074b7b3b1f64ba5449b64ec236609d536131df16effeb55768d4e01"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "692209a11bd8e2c9ab7142872f9fa4fcae11ea959a08468b311ff869f51d8ca9"
 metafile = true
 
 [[files]]
