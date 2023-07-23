@@ -33,17 +33,16 @@ file = "config/netherite_nugget.json5"
 hash = "1542c9f52686f68b13d0dfdcfcab58a79e7d81fed4e7cc178a9bac6bc1e3e9c6"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "b0fec5da577b57786d4d48f3fc875e1446deae5314c3eaeee1437eb09b92eefb"
+
+[[files]]
 file = "config/stackables.toml"
 hash = "1037ef0ea817a6c7380832a977a534393a82f0d2ccd94d8065481879efca1965"
 
 [[files]]
 file = "mods/archeology-plus.pw.toml"
 hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
-metafile = true
-
-[[files]]
-file = "mods/atlas-combat.pw.toml"
-hash = "6684ec618bfce7b4032f1f2350a78e4368eb7b299ad7e536dc50d4dffad50ab4"
 metafile = true
 
 [[files]]
@@ -152,6 +151,11 @@ hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
 
 [[files]]
+file = "mods/fixedvillagertrades.pw.toml"
+hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -167,8 +171,8 @@ hash = "eaa3db7613c8568a55d2bf11a24d4a8773a613c534cb0b770066bdc4281203ee"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "e995f14581cfa3e6148fecb00dea9a731533ba24a011e341f746e39c5c560a67"
+file = "mods/friends-and-foes.pw.toml"
+hash = "a65c6371d480a7238ee2313715f79fce887febfeb98a2c72403d0c662cdae1dc"
 metafile = true
 
 [[files]]
@@ -218,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-boss-bars.pw.toml"
-hash = "e0301c1b42186f67119c5355b801a9d68fb5b0e3cb8d3a1808168fa018374c23"
+hash = "24c74b1d37dfdf8be1e0d88276306b9c41133c1729a0beb0e94605fae86f1b07"
 metafile = true
 
 [[files]]
@@ -229,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/netherite-nuggets.pw.toml"
 hash = "dad9ce57a22f82cbae682276d52689291ff11ae08f2d495f08f3ffe5ae6b0606"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
 
 [[files]]
@@ -289,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-mobs.pw.toml"
+hash = "b3e8670f2bcfafc84afaf31ba017b123feda9e56e1f0e9f1117d055f4de28635"
 metafile = true
 
 [[files]]
