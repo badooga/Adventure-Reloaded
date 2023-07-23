@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
 
 [[files]]
+file = "mods/archeology-plus.pw.toml"
+hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
+metafile = true
+
+[[files]]
 file = "mods/atlas-combat.pw.toml"
 hash = "6684ec618bfce7b4032f1f2350a78e4368eb7b299ad7e536dc50d4dffad50ab4"
 metafile = true
@@ -20,6 +25,11 @@ hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
@@ -27,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "968b182231cf82c2dd35b50ae9681256cc7d066440e15b4e88df70700074a624"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
 metafile = true
 
 [[files]]
@@ -42,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
 metafile = true
 
 [[files]]
@@ -90,6 +110,11 @@ hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
 metafile = true
 
 [[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "eaa3db7613c8568a55d2bf11a24d4a8773a613c534cb0b770066bdc4281203ee"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
 hash = "e995f14581cfa3e6148fecb00dea9a731533ba24a011e341f746e39c5c560a67"
 metafile = true
@@ -100,8 +125,23 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
+file = "mods/giant-spawn.pw.toml"
+hash = "38d76506afc798ac39e348f0adabcb6f4e0f82631f37ac049adffa5b9552deb0"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "7143dc3137f2718a7b02346c55d47ac4a66e1e21690f571e6ca3c688133d94dd"
+metafile = true
+
+[[files]]
+file = "mods/hellions-sniffer+.pw.toml"
+hash = "d26baf8a8f8e338cbf7f0a0d3179de1920148c546b592b1193dafb30ba1480ad"
+metafile = true
+
+[[files]]
+file = "mods/illagers-wear-armor-fabric.pw.toml"
+hash = "eca1a3906074b7b3b1f64ba5449b64ec236609d536131df16effeb55768d4e01"
 metafile = true
 
 [[files]]
@@ -155,8 +195,23 @@ hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
 metafile = true
 
 [[files]]
+file = "mods/stackables.pw.toml"
+hash = "976cea9dda0af97d5860653e22104c5a84f9cd2579223c029939d74ac45a5813"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "072611854b3a7da9855119e94f60b3619b8a5f2ed14691ddd331691c2be178a9"
+metafile = true
+
+[[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+metafile = true
+
+[[files]]
+file = "mods/weaker-spiderwebs.pw.toml"
+hash = "7b9b9902e41a4334765d658bcb837ac216b3edd5cc23a2ceced0f0cb5299ed33"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Giant Spawn"
+filename = "giantspawn-1.20.1-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWwn7s9U/versions/jrvNGfvq/giantspawn-1.20.1-4.6.jar"
+hash-format = "sha1"
+hash = "7d60dfb7eff33174b301a4d594ae16d5ed4ad25a"
+
+[update]
+[update.modrinth]
+mod-id = "iWwn7s9U"
+version = "jrvNGfvq"
