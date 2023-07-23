@@ -3,3 +3,33 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "9bbc09c30566fd1cf875eae83f9a785d9207087c537f7f46c6a2aae39d7b1415"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+metafile = true
