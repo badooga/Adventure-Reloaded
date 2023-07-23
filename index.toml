@@ -5,6 +5,38 @@ file = "LICENSE"
 hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
 
 [[files]]
+file = "config/bettertridents-common.toml"
+hash = "43a09523bdf60314f15be8aa2887bdf56364f409083bd332804d1c2cb289b33e"
+
+[[files]]
+file = "config/combatroll/enchantments.json"
+hash = "4c0f73ae7558f0a0ccb3f103700b377eca5a0b8d08b384374faa25c02360cba3"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "4c99ead2458a15cba0afbffe7fff30ab979c61327d0ec63728111c94b56fc053"
+
+[[files]]
+file = "config/forgottengraves.json"
+hash = "e601a3741ab10ea6c7b9da0136ff1f13566f31195e76549c49de62b12f3e0613"
+
+[[files]]
+file = "config/giantspawn.json5"
+hash = "cbc5d5cde167cd185b41fe2af8499e658654ffd2073c5f250708357b0f442007"
+
+[[files]]
+file = "config/mobbossbars.json"
+hash = "b044378fb675d26297c3f22ea9ba7773258df473354e5eef3c4428e625ea088b"
+
+[[files]]
+file = "config/netherite_nugget.json5"
+hash = "1542c9f52686f68b13d0dfdcfcab58a79e7d81fed4e7cc178a9bac6bc1e3e9c6"
+
+[[files]]
+file = "config/stackables.toml"
+hash = "1037ef0ea817a6c7380832a977a534393a82f0d2ccd94d8065481879efca1965"
+
+[[files]]
 file = "mods/archeology-plus.pw.toml"
 hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
 metafile = true
