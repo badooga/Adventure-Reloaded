@@ -236,6 +236,11 @@ hash = "dad9ce57a22f82cbae682276d52689291ff11ae08f2d495f08f3ffe5ae6b0606"
 metafile = true
 
 [[files]]
+file = "mods/normal-damage.pw.toml"
+hash = "11228c5faf998937c263a313f402033a9edafb05911343a2c5b84fd01f7aa064"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
