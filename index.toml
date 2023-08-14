@@ -42,7 +42,7 @@ hash = "1037ef0ea817a6c7380832a977a534393a82f0d2ccd94d8065481879efca1965"
 
 [[files]]
 file = "mods/archeology-plus.pw.toml"
-hash = "f464f80bcd6df1840011f3143c505de8863a37d6550351bb7d701b2542336a99"
+hash = "9a85ecd81e036e97f51c3a3c14f0c7ab2b192875628127df92677c0808a6815b"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
+hash = "95ee75d928f6842feba6bfd521ec66dc11512d943e50dd0361af2f76ddc030c7"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
+hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
+hash = "418b4902c5d870ee27a952cc3c39ddfa931f2d40c55c7e963f35849402955c2c"
 metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "9bbc09c30566fd1cf875eae83f9a785d9207087c537f7f46c6a2aae39d7b1415"
+hash = "90745999262576c91d5f22493d03193ba807ee00558a8d19b50873d97d732ab6"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "d9e5d31a83f9cd880fadcff2cdbfcff436cc3ba7fb5af168a6170b7d8c6dce8c"
+hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "c64590151ce7a968e093058924fcb60e3cbfd7aa3934e50409523e3f95375316"
+hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
 
 [[files]]
 file = "mods/illagers-wear-armor-fabric.pw.toml"
-hash = "eca1a3906074b7b3b1f64ba5449b64ec236609d536131df16effeb55768d4e01"
+hash = "32e683c1ff786b6c6ce2bce6636c7ce05a36f9f406cce885f733a03030b125a7"
 metafile = true
 
 [[files]]
@@ -242,32 +242,32 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a1ed3355090b2098ac551b98b98e778c694f2b2bfd0166b891ff62a09d108762"
+hash = "5e0ef8a35be1085615a978d3a4863960496a269a1f4bb955a403e8bf3a215571"
 metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
 file = "mods/sculk-expansion.pw.toml"
-hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
+hash = "431bcaa7274e71262c630b55b8ea8b412b4ceb7de99b561f7fd5e3a161d08edf"
 metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "692209a11bd8e2c9ab7142872f9fa4fcae11ea959a08468b311ff869f51d8ca9"
+hash = "23f7380e7fc6fcfedad007d9d1009912c7c35e17ab29ac0f420d37a5881eceec"
 metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
+hash = "f7ad9ca76758d862d549656cf94fbf996e7fb77d0d96c498a8094a591b5f566b"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-mobs.pw.toml"
-hash = "b3e8670f2bcfafc84afaf31ba017b123feda9e56e1f0e9f1117d055f4de28635"
+hash = "01945222cf2689818ee6ec2efcb601213cc0e34bdb0e57c9a8f0ee3cd05ba0d7"
 metafile = true
 
 [[files]]
@@ -317,5 +317,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
 metafile = true
