@@ -131,11 +131,6 @@ hash = "6640a8327805a089b6108be237efe6a4a73e595bff086d30192ae9c04be2c96d"
 metafile = true
 
 [[files]]
-file = "mods/edf-remastered.pw.toml"
-hash = "772e44b75405916c14affc33c9e8ff3955d131750ecaaa3016a0b55fa6786154"
-metafile = true
-
-[[files]]
 file = "mods/end-gateway-warps.pw.toml"
 hash = "13b43ff153d700a0c0aa19fcc4170cbf80cbfff462f4581090837e9424ca9904"
 metafile = true
@@ -293,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "532cfefa4255461c795f0616c58ef91db03f521ea2f103bf9315b75e3153fdbf"
 metafile = true
 
 [[files]]
